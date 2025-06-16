@@ -1,4 +1,10 @@
-# 🛠️ Accessible Tool Generator
+<div align="center">
+
+# 🛠️ NoCodeGoat - Accessible Tool Generator
+
+<img src="https://github.com/user-attachments/assets/e821c962-8b14-4f84-8c14-1aa1a649420e" alt="Logo" width="100">
+
+</div>
 
 An AI-powered tool that transforms natural language descriptions into fully functional, accessible web applications. 
 
@@ -105,7 +111,6 @@ streamlit run app.py
 - **Quick actions**: Use sidebar buttons for instant tool access
 - **Tool management**: Clear history when needed
 
-
 ## 🎯 Generated Tool Examples
 
 ### Voice-Controlled Shopping List
@@ -126,31 +131,5 @@ Description: "A simple timer with visual and audio alerts"
 Features: Multiple alert types, high contrast display, accessible controls
 ```
 
-## 📚 Dependencies
-
-### Core Requirements
-- `streamlit>=1.28.0` - Web application framework
-- `google-generativeai>=0.8.0` - Google Gemini API client
-- `python-dotenv>=1.0.0` - Environment variable management
-
-### Optional Dependencies
-- `pandas>=2.0.0` - Data processing
-- `numpy>=1.24.0` - Numerical operations
-- `requests>=2.31.0` - HTTP requests
-
-### Development Dependencies
-- `pytest>=7.4.0` - Testing framework
-- `black>=23.0.0` - Code formatting
-- `flake8>=6.0.0` - Code linting
-
-
-### Documentation
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Google Gemini API Docs](https://ai.google.dev/)
-- [WCAG 2.1 Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
-
-
-
-**Made with ❤️ for accessibility and inclusion**
 
 *This tool aims to make digital accessibility easier for everyone. Every generated tool follows WCAG 2.1 AA standards to ensure usability for people with disabilities.*
