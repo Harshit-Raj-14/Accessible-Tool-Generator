@@ -32,7 +32,7 @@ Every generated tool includes:
 
 ## 🎯 Demo
 
-![Tool Generator Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Accessible+Tool+Generator)
+![Tool Generator Video Demo](https://www.youtube.com/watch?v=1-9Oqxgyz8k)
 
 ### Example Generated Tools:
 - Voice-controlled shopping lists with screen reader support
