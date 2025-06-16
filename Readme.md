@@ -3,7 +3,7 @@
 # 🐐 NoCodeGoat
 ### *Accessible Tool Generator*
 
-<img src="https://github.com/user-attachments/assets/e821c962-8b14-4f84-8c14-1aa1a649420e" alt="NoCodeGoat Logo" width="120" height="120">
+<img src="https://github.com/user-attachments/assets/92837b61-c9a9-433f-8b8c-3592f15b6b0b" alt="NoCodeGoat Logo" width="120" height="120">
 
 *Transform your ideas into accessible web applications with the power of AI*
 
